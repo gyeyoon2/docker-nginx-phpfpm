@@ -2,10 +2,10 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Piyo</title>
+    <title>Gyeyoon</title>
   </head>
   <body>
-      <?php echo "Hello World!"; ?>
+      <?php echo '<h1>This is Gyeyoon</h1>'; ?>
 
   </body>
 </html>
